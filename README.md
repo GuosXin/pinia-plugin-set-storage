@@ -1,6 +1,6 @@
 ## 介绍
 
-这是一个可以将pinia state保存到localStorage和sessiongStorage的插件，比较简单，代码写的自己也看不下去，github上有更优秀的插件可使用
+这是一个可以将pinia state保存到localStorage和sessiongStorage的插件，比较简单，github上有更优秀的插件可使用
 
 ## 安装
 
