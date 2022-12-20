@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ESNext",
+        "lib": ["ESNext", "DOM"],
+        "strict": true,
+        "skipLibCheck": true,
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "allowJs": true,
+        "declaration": true,    // 表示生成类型声明文件 *.d.ts
+        "outDir": "./dist"
+    },
+    "include": ["src/*"],
+    "exclude": ["dist", "node_modules"]
+}
